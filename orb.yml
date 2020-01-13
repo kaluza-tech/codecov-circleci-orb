@@ -1,5 +1,5 @@
 version: 2.1
-description: Upload code coverage reports to Codecov. Source https://github.com/lebaptiste/codecov-circleci-orb
+description: Upload code coverage reports to Codecov. Source https://github.com/kaluza-tech/codecov-circleci-orb
 
 commands:
   upload:
